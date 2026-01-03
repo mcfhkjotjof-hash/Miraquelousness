@@ -1,5 +1,5 @@
 {
   "data": 200,
   "code": 0,
-  "nove_str": ""
+  "nove_str": "https://www.baidu.com"
 }
