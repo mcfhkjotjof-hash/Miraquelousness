@@ -1,5 +1,5 @@
 {
   "data": 200,
   "code": 0,
-  "nove_str": "https://www.baidu.com"
+  "nove_str": "https://dbcds.tvuimx.com:1443/api/c/hs8lk6l7"
 }
